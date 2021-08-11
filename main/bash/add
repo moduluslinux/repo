@@ -1,0 +1,6 @@
+export MAKE_JOBS_UNSAFE=yes
+
+cd bash-5.1
+./configure
+make $MAKEFLAGS
+make install

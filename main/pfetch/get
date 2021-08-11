@@ -1,0 +1,2 @@
+curl -flO https://raw.githubusercontent.com/dylanaraps/pfetch/master/pfetch
+chmod +x pfetch
