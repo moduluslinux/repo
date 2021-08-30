@@ -1,2 +1,2 @@
 curl -flO https://ftp.gnu.org/gnu/bash/bash-5.1.tar.gz
-tar xvf bash-5.1.tar.gz
+tar xf bash-5.1.tar.gz
