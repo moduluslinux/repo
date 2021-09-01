@@ -6,7 +6,7 @@ A Blocks package is a folder consisting of text files and shell scripts to insta
 
 ### Needed files in a package
 These are needed for installing the package, and must be marked as executable.
-* `get` is for downlaoding the files needed for the package and doing other minor tasks, such as extracting the archive containing the software. 
+* `get` is for downloading the files needed for the package and doing other minor tasks, such as extracting the archive containing the software. 
 * `add` is for everything else while installing a package; installing and compiling the software included.
 * `rem` is for removing the package, which includes not only removing it from the system, but also removing what might have been downloaded with `get`.
 
