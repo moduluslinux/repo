@@ -1,0 +1,2 @@
+rm -rf make-4.3
+rm make-4.3.tar.gz

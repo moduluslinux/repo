@@ -1,0 +1,2 @@
+cd make-4.3
+./make uninstall
